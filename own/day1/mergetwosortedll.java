@@ -49,7 +49,6 @@ public class mergetwosortedll {
         ListNode mergedList = merger.mergeTwoLists(l1, l2);
 
         // Print the merged list
-        System.out.println("Merged list:");
         while (mergedList != null) {
             System.out.print(mergedList.val + " ");
             mergedList = mergedList.next;
