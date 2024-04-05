@@ -20,7 +20,7 @@ class TreeNode {
 
  
 
-public class Main { 
+public class sum_root_to_node_java { 
 
  
 
@@ -80,7 +80,7 @@ public class Main {
 
  
 
-        Main sumRootToLeaf = new Main(); 
+        sum_root_to_node_java  sumRootToLeaf = new sum_root_to_node_java (); 
 
         int result = sumRootToLeaf.sumNumbers(root); 
 

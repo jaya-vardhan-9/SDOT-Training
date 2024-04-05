@@ -22,7 +22,7 @@ class TreeNode {
 
  
 
-public class Main { 
+public class binaryTreeZigZag { 
 
  
 

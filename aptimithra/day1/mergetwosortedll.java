@@ -8,7 +8,7 @@ class ListNode {
     val = x;
     }
 }
-public class Main {
+public class mergetwosortedll {
     public static ListNode mergeLists(ListNode l1, ListNode l2) {
     PriorityQueue<Integer> minHeap = new PriorityQueue<>();
 
